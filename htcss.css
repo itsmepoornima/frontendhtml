@@ -1,0 +1,65 @@
+ul{
+	list-style: none;
+	font-size: 25px;
+}
+li{
+	display: inline;
+	margin: 100px;
+	text-decoration: none;
+}
+p{
+	font-family: cursive;
+	margin-right: 50px;
+	margin-left: 50px;
+	margin-top: 40px;
+}
+h1{
+	text-align: center;
+	background-color: black;
+	color: white;
+	padding: 30px;
+	font-size: 40px;
+}
+hr{
+	border: 2px double; black;
+}
+img{
+	border-radius: 50%;
+	widows: 50%;
+}
+.spl_para{
+	color: black;
+	font-size: 20px;
+}
+#spl_is{
+	color: red;
+	font-size: 20px;
+}
+
+nav{
+	background-color: black;
+	color: pink;
+	white-space: 30%;
+	padding: 15px;
+	text-decoration: none;
+}
+li a{
+	text text-decoration: none;
+}
+li a:hover{
+	color: red;
+	text-decoration: none;
+	
+}
+footer{
+	background-color: black;
+	color: white;
+	font-size: 25px;
+	padding: 2px;
+	text-align: center;
+	font-family: serif;
+}
+.para3{
+	color: green;
+	font-size: 20px;
+}
